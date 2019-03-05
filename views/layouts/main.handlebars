@@ -6,46 +6,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Burger App</title>
 
-    <link rel="icon" href="../../public/assets/images/burger.png">
+    <link rel="icon" href="assets/images/burger.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <link rel="stylesheet" href="../../public/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
-    <div id="main-container" class="container">
-        <center>
-            <div class="row">
-                <img src="../../public/assets/images/burger.png">
-                <div class="jumbotron">
-                    <h1>Eat Da Burger!</h1>      
-                    <p>Choose a Burger from the list. Then devour it. <br> 
-                    Don't see burger you like? Enter a Burger using the submit form below.</p>    
-                </div>
-            </div>
-        </center>
 
-        <br>
+    <img src="assets/images/burger.png" id="burgerImg">
 
-        {{{body}}}
+    {{{body}}}
 
-        <br><br>
-
-        <div class="row">
-            <form class="col s12">
-            <div class="row">
-                <div class="input-field col s12">
-                <textarea id="burger-input" class="materialize-textarea"></textarea>
-                <label for="burger-input">Enter a Burger</label>
-                </div>
-            </div>
-            </form>
-        </div>
-
-        <center>
-            <button class="btn waves-effect waves-light" type="submit" name="action">Submit</button>
-        </center>
-    </div>
-    
     
 </body>
 </html>

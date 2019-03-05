@@ -1,0 +1,63 @@
+html{
+    background-color: #4897d8;
+}
+
+.container{
+    background-color: #ffdb5c;
+}
+
+body{
+    margin: 0 auto;
+    display: flex;
+    width: 75%;
+    flex-direction: column;
+    background-color: #ffdb5c;
+}
+
+#burgerImg{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+    margin: 3rem;   
+}
+
+.burgerToEat{
+    font-size: 1rem;
+    text-align: center;
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: #fa6e59;
+    border: none;
+}
+
+.burgerEaten{
+    font-size: 1rem;
+    text-align: center;
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f8a055;
+    border: none;
+}
+
+.newBurgerBtn{
+    font-size: 1rem;
+    text-align: center;
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: green;
+    width: 100%;
+    border: none;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+    margin: 3rem;
+}
