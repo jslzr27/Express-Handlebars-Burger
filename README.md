@@ -41,7 +41,7 @@ Here is a little demo of the app:
 
 * Handlebars <br>
 
-![Handlebars] (handlebars_logo.png) <br>
+![Handlebars](handlebars_logo.png) <br>
 
 ## npm packages: 
 * [mysql](https://www.npmjs.com/package/mysql) - This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.
@@ -51,6 +51,6 @@ Here is a little demo of the app:
 ## Author
 * **Jesus Salazar** 
 
-* LinkedIn[LinkedIn](https://www.linkedin.com/in/jesus-salazar-484837173/)
-* GitHub[Github](https://github.com/jslzr27)
-* Portfolio[Portfolio](https://jslzr27.github.io/Responsive-Portfolio/)
+* [LinkedIn](https://www.linkedin.com/in/jesus-salazar-484837173/)
+* [Github](https://github.com/jslzr27)
+* [Portfolio](https://jslzr27.github.io/Responsive-Portfolio/)
