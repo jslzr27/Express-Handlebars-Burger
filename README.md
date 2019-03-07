@@ -49,7 +49,8 @@ Here is a little demo of the app:
 * [Express-handlebars](https://www.npmjs.com/package/express-handlebars) - This is a handlebars view engine for express.
 
 ## Author
-* **Jesus Salazar** 
+
+**Jesus Salazar** 
 
 * [LinkedIn](https://www.linkedin.com/in/jesus-salazar-484837173/)
 * [Github](https://github.com/jslzr27)
