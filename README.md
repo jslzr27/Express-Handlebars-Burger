@@ -2,7 +2,7 @@
 
 Thisapp stores user inputs as data in a Mysql database and display it through routes with express and uses handlebars as a template for the HTML that the user interacts with.
 
-* Here is a link to the site(https://burger-app-jrss.herokuapp.com/)<br>
+* [Here is a link to the site](https://burger-app-jrss.herokuapp.com/)<br>
 
 ## How to Use
 
